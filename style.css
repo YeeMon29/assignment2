@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+}
+@media (min-width:768px) {
+    .txt1{
+        position: absolute;
+    }
+    
+    
+}
+.slogan{
+    background-color: #FFEE00;
+}
+.atc{
+    background-color: #FF006A;
+    color: white;
+}
+.atc:hover{
+    background-color: #d40159;
+    color: #ffffff;
+}
+.txt2{
+    background-color: #FFEE00;
+}
+.description{
+    background-color: #d40159;
+    color: white;
+}
+.ch{
+    border: 2px solid #FF006A;
+    text-decoration: none; color: rgb(0, 0, 0);
+}
+.ch:hover{
+    background-color: #FF006A;
+    color: white;
+    
+}
+.overlay{
+    padding-left: 30px;
+}
+.fa{
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook{
+    background: #FF006A;
+    color: #000000;
+}
+.fa-twitter{
+    background: #FF006A;
+    color: #000000;
+}
+.fa-google{
+    background: #FF006A;
+    color: #000000;
+}
+.background_color{
+    border-radius: 25px;
+    background:#FF006A;
+    padding: 10px;
+
+  }
+  .hello{
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .hi{
+    background:#FF006A;
+  }
+  .text-color{
+    color: black;
+  }
+  .bg-color{
+    background-color: #FF006A;
+  }
+  .fa-search{
+    background: #FF006A;
+}
+
+.bt-submit{
+    background: #FF006A;
+}
+.sign_up_bg{
+    background-color: #FF006A;
+}
+.container1{
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding-top: 25px;
+}
